@@ -11,10 +11,10 @@ The analysis is based on three datasets:
 3. Products Table: Product details including Coffee Type, Roast Type, Size, Price, Profit.
 
 ### Analysis Performed
-a. Sales Analysis: Total Sales, Profit, Trends, Country-Level Sales.
-b. Product Analysis: Distribution by Coffee Type, Roast Type, and Package Size.
-c. Customer Analysis: Top 5 Customers and Loyalty Program Impact.
-d. KPIs: Total Revenue, Total Profit, Average Order Value, Customer Segmentation.
+1. Sales Analysis: Total Sales, Profit, Trends, Country-Level Sales.
+2. Product Analysis: Distribution by Coffee Type, Roast Type, and Package Size.
+3. Customer Analysis: Top 5 Customers and Loyalty Program Impact.
+4. KPIs: Total Revenue, Total Profit, Average Order Value, Customer Segmentation.
 
 ### Dashboard Features
 The Excel dashboard includes:
